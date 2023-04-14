@@ -1,6 +1,7 @@
 from if3_game.engine import init, Game , Layer
 from game_objects import RESOLUTION, Spaceship, Asteroid
 
+#commentaire pour git 
 
 init(RESOLUTION, "Asteroid")
 
